@@ -1,1 +1,1 @@
-A simple Redux-Saga App
+A simple React & Redux-Saga application.
